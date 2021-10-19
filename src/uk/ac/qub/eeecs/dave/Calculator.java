@@ -1,5 +1,7 @@
 package uk.ac.qub.eeecs.dave;
 
+import java.lang.Math;
+
 public class Calculator {
 	public int add(int a, int b) {
 		return a+b;
@@ -19,5 +21,9 @@ public class Calculator {
 	
 	public int square(int a) {
 		return a*a;
+	}
+	
+	public double sqroot(int a) {
+		return Math.sqrt(a);
 	}
 }
