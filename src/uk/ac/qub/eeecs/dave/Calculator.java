@@ -23,7 +23,4 @@ public class Calculator {
 		return a*a;
 	}
 	
-	public double sqroot(int a) {
-		return Math.sqrt(a);
-	}
 }
