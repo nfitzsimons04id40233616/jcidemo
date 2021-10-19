@@ -1,6 +1,5 @@
 package uk.ac.qub.eeecs.dave;
 
-import java.lang.Math;
 
 public class Calculator {
 	public int add(int a, int b) {
